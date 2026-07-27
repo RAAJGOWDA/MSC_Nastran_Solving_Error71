@@ -1,1 +1,1 @@
-# MSC_Nastran_Solving_Error71
+In the Bulk file CEND and ENDATA wasn’t replaced with $ in the include file. PID=72 KLINE was not entered with the required values was selected & left blank.
